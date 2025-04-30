@@ -1,3 +1,3 @@
-why i change this 
-master's readme-txt
+why i change this \n
+master's readme-txt\n
 for my learning
